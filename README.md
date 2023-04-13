@@ -2,11 +2,12 @@
 
 ## To run
 
-1. `git clone {this}`
-2. `nvm i 18.13.0`
-3. `npm ci`
-4. `npx vitest`
-5. Observe:
+1. `git clone https://github.com/Maxim-Mazurok/vue-8074-repro`
+1. `cd vue-8074-repro`
+1. `nvm i 18.13.0`
+1. `npm ci`
+1. `npx vitest`
+1. Observe:
 
    ```
     Vitest caught 2 unhandled errors during the test run.
